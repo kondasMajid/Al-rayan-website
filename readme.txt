@@ -4,7 +4,7 @@ All you have to do is replace my words with your own words.
 
 To work on the pages you will need to open them in notepad (or another text editor). Be careful not to accidently erase any of the code. You might want to make back-up copies of the pages and also of your changes.
 
-If you do accidently erase anything, you can always download the pages again. They are located at http://nicholasacademy.com/websiteforkids.html
+If you do accidently erase anything, you can always download the pages again. They are located at https://github.com/kondasMajid/Al-rayan-website
 
 Double click on the pages to open them in your browser.
 
